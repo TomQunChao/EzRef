@@ -1,0 +1,7 @@
+-MyFormat
+[J] {Author}.{Title}.{Publisher}.{VolNo}.{Page}
+[C] {Author}.{Title}.{ConName}.{Addr}:{Year}
+--
+-MyFormat2
+[J] {Author}.{Title}.{Publisher}.{VolNo}.{Page}
+[C] {Author2}.{Title}.{ConName}.{Addr}:{Year},{Month},pp. {page}
